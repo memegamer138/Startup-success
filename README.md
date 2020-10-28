@@ -6,4 +6,4 @@ front end developers will help us out and add graphics and a nice UI for this. S
 
 For the time being, you need to save Main.py locally and execute it through a python interpreter.
 -----------------------------------
-Looking for developers fluent in JS to create a GUI. We can integrate it withh python (the back-end language) using Flask.
+Looking for developers fluent in JS to create a GUI. We can integrate it with python (the back-end language) using Flask.
