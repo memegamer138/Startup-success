@@ -14,3 +14,10 @@ click "Home". You will find information about SSP and also links to other pages 
 _______________________________________________________________________________________________________________
 
 NOTE: Since this is the pre-alpha version and has no GUI for specific OS, you can use this on any OS that has a python interpreter.
+_______________________________________________________________________________________________________________
+
+## What's new
+Version 1.0.1
+
+ADDED:
+1. Security feature: Check out Security.md to report vulnerabilities. Also, code analysis has been added to detect potential vulnerabilities in code.
