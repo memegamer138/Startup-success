@@ -1,0 +1,33 @@
+---------------------------------------------------
+Name: Bug report
+Title: ''
+Labels: ''
+Assignees: ''
+If you are the person filing a bug, ignore the above.
+---------------------------------------------------
+
+1. Describe the bug.
+
+
+2. Steps for others to discover the bug:
+Example: {1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error.}
+
+3. What did you expect to happen?
+
+
+4. If you are using a phone, ignore this question.
+ - OS: [e.g. Windows]
+ - Version [e.g. 22]
+
+5. If you are using a desktop, ignore this question.
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS 13.1]
+ - Version [e.g. 1.0.1] (Version of SSP used.)
+
+**Additional context** (Optional)
+Add any other context about the problem here.
+
+You cann add screen records/shots to explain the bug further. (Optional)
