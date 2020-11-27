@@ -5,7 +5,8 @@
 Below are the list of versions currently supported.
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
+| 1.1.x   | :white_check_mark: |
+| 1.0     | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
