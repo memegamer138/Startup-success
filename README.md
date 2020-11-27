@@ -28,5 +28,4 @@ a) Feature request.
 b) Bug report.
 Fill this template and add it here: https://github.com/memegamer138/Startup-success/issues/
 ___________________________________________________________________________________________________________________________________
-It is recommended to regularly check https://github.com/memegamer138/Startup-success/releases and download the latest version as 
-there will be bug fixes and new stuff in every update.
+It is recommended to regularly check https://github.com/memegamer138/Startup-success/releases and download the latest version as there will be bug fixes and new stuff in every update.
