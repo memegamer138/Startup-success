@@ -26,7 +26,7 @@ detect potential vulnerabilities in code.
 2. Issue reports: You might have noticed a new folder called ISSUE_REPORT. When you click this, you will see 2 templates:
 a) Feature request.
 b) Bug report.
-Fill this template and post it under issues in SSP's official repository: https://github.com/memegamer138/Startup-success
+Fill this template and add it here: https://github.com/memegamer138/Startup-success/issues/
 ___________________________________________________________________________________________________________________________________
 It is recommended to regularly check https://github.com/memegamer138/Startup-success/releases and download the latest version as 
 there will be bug fixes and new stuff in every update.
