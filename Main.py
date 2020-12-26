@@ -516,7 +516,7 @@ You now have the following options:
 2. View your results.
 3. View the current directory.
 4. Exit
-Note that the files will stil exist in the current directory even after the program is closed. 
+Note that the files will still exist in the current directory even after the program is closed. 
 Please enter the corresponding number to what you need: '''))
     if ch==1:
         web.open('userdat.txt')
