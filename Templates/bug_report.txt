@@ -20,7 +20,7 @@ Example: {1. Go to '...'
 
 4. If you are using a phone, ignore this question.
  - OS: [e.g. Windows]
- - Version [e.g. 22]
+ - Version [e.g. 8.1]
 
 5. If you are using a desktop, ignore this question.
  - Device: [e.g. iPhone6]
