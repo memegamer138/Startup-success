@@ -1,27 +1,46 @@
 <html>
     <head><title>SSP Support</title></head>
     <style>
+        .header{
+		text-shadow: 2px 2px blue;
+		color: red;
+		font-size: 46px; 
+	}
+	    h1{
+		    text-shadow: 2px 3px rgb(0,0,100);
+            color: red;
+	}
         body{
-            background-color:rgb(24, 6, 34);
+            background-color: rgb(24, 6, 34);
         }
         a:link{
             color: mediumblue;
         }
         a:visited{
-            color: lightseagreen;
+            color: rgb(49, 124, 194);
         }
         a:hover{
-            color: midnightblue;
+            color: navy;
         }
+	.footer {
+  		position: fixed;
+  		left: 0;
+  		bottom: 0;
+  		width: 100%;
+ 		color: cyan;
+		background-color: green; 
+		text-align: center;
+	}
         </style>
     <body text="yellow" bgcolor="black">
         <a href="Home.html">|Home|</a>
         <a href="Vision.html">|Vision|</a>
         <a href="Links.html">|Links|</a>
-        <a href="Support.html">|Support|</a>        <hr style="width: 100%; size: 2%;">
-        <font size=29 color="red"><center><u>
+        <a href="Support.html">|Support|</a>       
+        <hr style="width: 100%; size: 2%;">
+        <div class="header"><center><u>
             SSP Support
-        </u></center></font>
+        </u></center></div>
         <br>In this page, you will learn how to use SSP to your advantage and what to do if you encounter bugs.
         <h1><font color="red"><u>How to use SSP?</u></font></h1>
         <p>This program will hopefully guide you in the right path and decide on whether business is the right think for you.
@@ -30,12 +49,22 @@
         Make sure to read the README file for detailed instructions and help.
         </p>
         <h1><font color="red"><u>How to deal with bugs?</u></font></h1>
-        <p>In the pre-alpha version, it is highly unlikely to find a bug. But by chance if you encounter one, check the issue_report folder 
-           and chose the appropriate template. Fill it out and <a href="https://github.com/memegamer138/Startup-success/issues">click here</a> and select new issue.
-           In the body section of the mail, briefly describe the bug and when you encountered it. 
+        <p>If you encounter a bug, check the issue_report folder and chose the appropriate template. Fill it out, save it, and 
+        and drag/drop it <a href="https://github.com/memegamer138/Startup-success/issues/new">here</a>.
+        If you think that the bug is extremely dangerous or if you have spotted a potential vulnerability, <a href="mailto:memegamer138@hotmail.com">drop a mail</a>.
+        In the body section of the mail, briefly describe the bug and when you encountered it. Suggestions to fix the bug are welcome. 
+        f you have any feedback or suggestion, make sure to do the same for bugs, but use the "Feature_request" template and send it 
+        </p>
+        <h1><u>Is SSP Licensed?</u></h1>
+        <p>
+        While SSP is open source, it is licensed by <a href="https://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>. You 
+        will not have to worry about unless you wish to reproduce this software with changes of your own. Please read "LICENSE.txt" to know 
+        your rights and liabilities.
         </p>
         <br><br><br>
-        <hr style="width:55%; size:2%; border-color:red;">
-        <center><font style="color: cyan;">SSP Official© 2020. All rights reserved.</font></center>
+	<div class="footer">
+		<hr style="width:100%; size:2%; border-color:red; position:absolute; bottom:14px">
+        	<center><font style="color: cyan;">SSP Official© 2020. All rights reserved.</font></center>
+	</div>
     </body>
 </html>
