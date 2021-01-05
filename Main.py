@@ -515,7 +515,8 @@ You now have the following options:
 1. View your responses.
 2. View your results.
 3. View the current directory.
-4. Exit
+4. Visit the home page for SSP.
+5. Exit
 Note that the files will still exist in the current directory even after the program is closed. 
 Please enter the corresponding number to what you need: '''))
     if ch==1:
@@ -530,6 +531,8 @@ Please enter the corresponding number to what you need: '''))
     elif ch==3:
         print(os.getcwd())
     elif ch==4:
+        web.open("WebPages/Home.html")
+    elif ch==5:
         break
     else:
         print("Invalid response.")
