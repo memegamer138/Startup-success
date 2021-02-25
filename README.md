@@ -28,4 +28,3 @@ ADDED:
 ___________________________________________________________________________________________________________________________________
 It is recommended to regularly check https://github.com/memegamer138/Startup-success/releases and download the latest version as there will be bug fixes and new features
 in every update.
-
