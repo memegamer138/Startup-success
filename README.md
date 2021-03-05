@@ -1,6 +1,11 @@
 # Startup-success
-Welcome to my first repository!
+Welcome to the official repository for SSP!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58916270/110085993-d95f2f80-7da2-11eb-9787-6407b36b6d15.png" />
+</p>
+
 ___________________________________________________________________________________________________________________________________
+
 So "Main.py" is the main code. Right now, you need a python interpreter to actually use this. But hopefully in the future,
  front end developers will help us out and add graphics and a nice UI for this. So, looking for front end developers.
 
